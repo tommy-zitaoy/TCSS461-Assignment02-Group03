@@ -2,6 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="pa#01-group#3-src"/>
 	<classpathentry kind="src" path="PA#02-group#3/scr"/>
+	<classpathentry excluding="scr/|scr/" kind="src" path="PA#02"/>
+	<classpathentry kind="src" path="PA#02/scr"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
